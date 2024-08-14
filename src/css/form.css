@@ -1,0 +1,27 @@
+#form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 700px;
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+}
+
+label {
+  margin-top: 10px;
+  color: deepskyblue;
+}
+
+.margin-right-10px{
+  margin-right: 10px;
+}
+
+.change-modal-buttons-container{
+  margin-top: 15px ;
+  display: flex;
+  justify-content: center;
+}

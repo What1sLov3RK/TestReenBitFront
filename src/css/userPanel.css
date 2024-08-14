@@ -1,0 +1,31 @@
+#user-panel-container{
+    background-color: #f1f1f1;
+    border: 0 solid darkgray;
+    border-bottom-width:1px;
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    padding: 0 10px 0 10px;
+}
+
+#user-profile{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+#input-search-chat-container{
+    width:100%;
+}
+
+#input-search-chat-container input{
+    width:100%;
+}
+
+#profile-picture{
+    width:30px;
+    border-radius:100px;
+    height:30px;
+    margin:10px;
+}

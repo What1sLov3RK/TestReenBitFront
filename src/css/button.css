@@ -1,0 +1,20 @@
+button{
+    width: fit-content;
+    background-color: white;
+    border:1px solid deepskyblue;
+    color: deepskyblue;
+    padding:5px;
+    border-radius: 12px;
+    font-weight: 600;
+    height: fit-content;
+}
+
+button:hover{
+    background-color: ghostwhite;
+}
+
+button:active{
+    background-color: deepskyblue;
+    color: white;
+    border:1px solid white;
+}
